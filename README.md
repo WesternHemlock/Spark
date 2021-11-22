@@ -22,4 +22,4 @@ Spark exists to help the world develop connections.
 
 Looking to learn a new skill? Or to debate the latest Texas legislation? Spark removes typical social media distractions and makes it easy to connect with a like-minded person, solve a problem, or debate a solution.
 
-[Join the community](https://forms.gle/6M1kvkkmWKtyQnm2A) ° [Learn more](https://connectwithspark.com) ° [Contact the team](mailto:hey@connectwithspark.com)
+[Join the community](https://forms.gle/6M1kvkkmWKtyQnm2A) ° [Request a feature](https://github.com/WesternHemlock/Spark/discussions) ° [Visit our website](https://connectwithspark.com) ° [Contact the team](mailto:hey@connectwithspark.com)
